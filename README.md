@@ -1,6 +1,6 @@
 # Template Method Pattern
 
-**Note**
+> **Note**
 > my slides in template method pattern during my trannings in Foothill Technology Solutions
 
 The Template Method Pattern is a behavioral design pattern that defines the skeleton of an algorithm in a superclass, allowing subclasses to provide specific implementations for certain steps of the algorithm without changing its overall structure. This pattern promotes code reuse and allows for easy modification of individual steps in the algorithm without affecting the entire process.
@@ -28,9 +28,9 @@ The Template Method Pattern is commonly used in scenarios where there is a commo
 ## References
 For more detailed information on the Template Method Pattern, I recommend checking out the book "Head First Design Patterns" by Eric Freeman, Elisabeth Robson, Bert Bates, and Kathy Sierra. You can download the book from the following source:
 
-Head First Design Patterns - O'Reilly Media
+<a href = "https://www.oreilly.com/library/view/head-first-design/0596007124/">Head First Design Patterns - O'Reilly Media</a>
 
 Please note that the availability of the book may vary depending on your location and the publisher's distribution policies.
 
-**Note**
+> **Note**
 > If you need the book for free, contact me
