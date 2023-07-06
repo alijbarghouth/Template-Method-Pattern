@@ -1,7 +1,7 @@
 # Template Method Pattern
 
 > **Note**
-> my slides in template method pattern during my trannings in Foothill Technology Solutions
+> My slides in template method pattern during my trainings in Foothill Technology Solutions.
 
 The Template Method Pattern is a behavioral design pattern that defines the skeleton of an algorithm in a superclass, allowing subclasses to provide specific implementations for certain steps of the algorithm without changing its overall structure. This pattern promotes code reuse and allows for easy modification of individual steps in the algorithm without affecting the entire process.
 
